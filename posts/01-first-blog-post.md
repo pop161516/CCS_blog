@@ -36,9 +36,9 @@ Then after the break we got into setting up our blogs and git accounts and deno 
     - cd.. +go back (I found that just cd worked for me)
     - open. = open in finder (didnt work for me)
 
-This is sort of cheating becuase I just took it from the template but this is essecialy what we made in class today. 
+This is sort of cheating becuase I just took it from the template(rather than properly iframing it in) but this is essecialy what we made in class today. 
 
-canvas id="canvas_example"></canvas>
+<canvas id="canvas_example"></canvas>
 
 <script type="module">
     const cnv = document.getElementById (`canvas_example`)
