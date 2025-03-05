@@ -71,9 +71,50 @@ This is sort of cheating becuase I just took it from the template(rather than pr
 </script>
 
 # Homework
+### loops
 Ok, for homework I began looking into for loops. These are ways of repeating code in a clean and minimal way. I started by looking at the example provided
 
-test
+I understood most of the code but being compleetly honest I asked ChatGPT so explain what each line did before I felt confident in what was going on.
+
+(image of og script)
+
+first test I was mucking around with the square (x, y, s) propoties. I thought that maybe if I ajusted the y then the line may become a grid by duplucateng on each layer.
+
+result:
+(image of diagonal)
+
+When this didn't work I got help from p5🙏 I went to the "for" page of the resources and red about how the perametres work...
+
+This helped a lot, I then put the loop in a loop
+(spinning top gif)
+
+result:
+(final image)
+
+I think this is mission complete but I tried to get a bit of padding between each square which proved much harder than anticipated. maybe a task for next time🫡
+
+### Rafaël Rozendaal
+Next homework task was to reseach this Rozendaal person and think about how they make their art. the pieces I was most interested in were "passage", "corners", and "pages". 
+
+(image of passage)
+
+I hypothosise the piece "passage" uses some method of creating rectangles in the centre of the screen then increasing there scale based on the frameCount. I'm not sure how the colour is randomised or how the Trapezoid shape is achived, maybe the squares are rotated or triangles are being used?
+
+(hindsight mataso here, I'm not sure if the piece is scaling from the centre or moving away? and for the trapozoid shape, after looking at the artwork corners I theories a right angle triangle is generated next to the square in the same colour🤷‍♂️)
+
+### fun tasks
+The extra tasks were to bring in a selfie + two tuths and a lie for a fun introduction class on thursday.
+
+selfie:
+(selfie image)
+
+truths and lie:
+- I watched each oscar nominated film, a week before the accadamy awards this year.
+- I have 16 first cousins
+- I'm caught up with one piece 
+
+then email thomas with preferd name and pronouns: 
+Mataso He/Him.
 
 -
 <style>
