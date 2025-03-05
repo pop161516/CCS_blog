@@ -76,62 +76,8 @@ Ok, for homework I began looking into for loops. These are ways of repeating cod
 test
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Canvas Animation</title>
-  <style>
-    body { margin: 0; overflow: hidden; }
-    canvas { display: block; background: turquoise; }
-  </style>
-</head>
-<body>
-  <canvas id="myCanvas"></canvas>
 
-  <script>
-    const canvas = document.getElementById("myCanvas");
-    const ctx = canvas.getContext("2d");
-
-    function resizeCanvas() {
-      canvas.width = window.innerWidth;
-      canvas.height = 200;
-    }
-
-    window.addEventListener("resize", resizeCanvas);
-    resizeCanvas();
-
-    let frameCount = 0;
-    function draw() {
-      frameCount++;
-      const t = frameCount / 25;
-      ctx.fillStyle = "turquoise";
-      ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-      ctx.fillStyle = "deeppink";
-      const totalSquares = 10;
-      const size = canvas.width / totalSquares;
-
-      for (let i = 0; i < totalSquares; i++) {
-        let squareSize = (t * (i + 1)) % size;
-        let x = (canvas.width * (i + 0.5)) / totalSquares;
-        let y = canvas.height / 2;
-        
-        ctx.beginPath();
-        ctx.rect(x - squareSize / 2, y - squareSize / 2, squareSize, squareSize);
-        ctx.fill();
-      }
-
-      requestAnimationFrame(draw);
-    }
-
-    draw();
-  </script>
-</body>
-</html>
-
-
+-
 <style>
 .container {
     display: flex;
