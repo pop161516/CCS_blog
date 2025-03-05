@@ -75,8 +75,6 @@ Ok, for homework I began looking into for loops. These are ways of repeating cod
 
 test
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,37 +82,19 @@ test
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Canvas Animation</title>
   <style>
-    body { 
-      margin: 0; 
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background: turquoise;
-    }
-    .canvas-container {
-      width: 80%; /* Adjust this for more/less padding */
-      max-width: 1000px;
-      display: flex;
-      justify-content: center;
-    }
-    canvas { 
-      display: block; 
-      background: turquoise; 
-    }
+    body { margin: 0; overflow: hidden; }
+    canvas { display: block; background: turquoise; }
   </style>
 </head>
 <body>
-  <div class="canvas-container">
-    <canvas id="myCanvas"></canvas>
-  </div>
+  <canvas id="myCanvas"></canvas>
 
   <script>
     const canvas = document.getElementById("myCanvas");
     const ctx = canvas.getContext("2d");
 
     function resizeCanvas() {
-      canvas.width = Math.min(window.innerWidth * 0.8, 1000);
+      canvas.width = window.innerWidth;
       canvas.height = 200;
     }
 
@@ -149,7 +129,6 @@ test
   </script>
 </body>
 </html>
-
 
 
 <style>
