@@ -75,7 +75,7 @@ Ok, for homework I began looking into for loops. These are ways of repeating cod
 
 test
 
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
