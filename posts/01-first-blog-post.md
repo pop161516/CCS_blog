@@ -29,7 +29,7 @@ Then after the break we got into setting up our blogs and git accounts and deno 
 - I learnt about the layered nature of JS and how it reads though line by line and paints a picture each frame.
 - I learnt about the help tab and the resources available to leanr how to make shapes like squareds and ajust their propoties like location, size, colour, and stroke.
 - I leanr about frsameCounts and making mini animations. I sort of checked out a bit when Thomas was explaining modulo but I'll understand another day 🤷‍♂️
-- then at the end when we are creating th eblogs I learnt about terminal navigation. I'll leave my notes he for future Mataso 🫡
+- Then at the end when we are creating th eblogs I learnt about terminal navigation. I'll leave my notes he for future Mataso 🫡
     - ls = list
     - pwd = print working directory
     - cd ~ = chnage directory
@@ -76,27 +76,27 @@ Ok, for homework I began looking into for loops. These are ways of repeating cod
 
 I understood most of the code but being compleetly honest I asked ChatGPT so explain what each line did before I felt confident in what was going on.
 
-(image of og script)
+![image of og script](/Images/w1/learningp5og.png)
 
-first test I was mucking around with the square (x, y, s) propoties. I thought that maybe if I ajusted the y then the line may become a grid by duplucateng on each layer.
+First test I was mucking around with the square (x, y, s) propoties. I thought that maybe if I ajusted the y then the line may become a grid by duplucateng on each layer.
 
-result:
-(image of diagonal)
+**Result:**
+![image of diagonal](/Images/w1/learningp5diagonal.png)
 
 When this didn't work I got help from p5🙏 I went to the "for" page of the resources and red about how the perametres work...
 
 This helped a lot, I then put the loop in a loop
-(spinning top gif)
+![inceptiontop](/Images/w1/inceptiontop.gif)
 
-result:
-(final image)
+**Result:**
+![final image](/Images/w1/learningp5grid.png)
 
 I think this is mission complete but I tried to get a bit of padding between each square which proved much harder than anticipated. maybe a task for next time🫡
 
 ### Rafaël Rozendaal
 Next homework task was to reseach this Rozendaal person and think about how they make their art. the pieces I was most interested in were "passage", "corners", and "pages". 
 
-(image of passage)
+![image of passage](/Images/w1/refaelpassage.png)
 
 I hypothosise the piece "passage" uses some method of creating rectangles in the centre of the screen then increasing there scale based on the frameCount. I'm not sure how the colour is randomised or how the Trapezoid shape is achived, maybe the squares are rotated or triangles are being used?
 
@@ -105,16 +105,18 @@ I hypothosise the piece "passage" uses some method of creating rectangles in the
 ### fun tasks
 The extra tasks were to bring in a selfie + two tuths and a lie for a fun introduction class on thursday.
 
-selfie:
+**Selfie:** 
 (selfie image)
 
-truths and lie:
+Truths and lie:
 - I watched each oscar nominated film, a week before the accadamy awards this year.
 - I have 16 first cousins
 - I'm caught up with one piece 
 
-then email thomas with preferd name and pronouns: 
+Then email Thomas with preferd name and pronouns: 
 Mataso He/Him.
+
+![blank](/Images/w1/blankpng.png)
 
 -
 <style>
