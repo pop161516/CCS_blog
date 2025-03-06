@@ -86,6 +86,7 @@ First test I was mucking around with the square (x, y, s) propoties. I thought t
 When this didn't work I got help from p5🙏 I went to the "for" page of the resources and red about how the perametres work...
 
 Reading the resources helped a lot, I realised I needed to put the loop in a loop to copy the code along the y axis
+
 ![inceptiontop](/Images/w1/inceptiontop.gif)
 
 **Result:**
