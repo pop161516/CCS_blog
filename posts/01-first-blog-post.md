@@ -71,7 +71,7 @@ This is sort of cheating becuase I just took it from the template(rather than pr
 </script>
 
 # Homework
-### loops
+### Loops
 Ok, for homework I began looking into for loops. These are ways of repeating code in a clean and minimal way. I started by looking at the example provided
 
 I understood most of the code but being compleetly honest I asked ChatGPT so explain what each line did before I felt confident in what was going on.
@@ -85,7 +85,7 @@ First test I was mucking around with the square (x, y, s) propoties. I thought t
 
 When this didn't work I got help from p5🙏 I went to the "for" page of the resources and red about how the perametres work...
 
-This helped a lot, I then put the loop in a loop
+Reading the resources helped a lot, I realised I needed to put the loop in a loop to copy the code along the y axis
 ![inceptiontop](/Images/w1/inceptiontop.gif)
 
 **Result:**
@@ -102,7 +102,7 @@ I hypothosise the piece "passage" uses some method of creating rectangles in the
 
 (hindsight mataso here, I'm not sure if the piece is scaling from the centre or moving away? and for the trapozoid shape, after looking at the artwork corners I theories a right angle triangle is generated next to the square in the same colour🤷‍♂️)
 
-### fun tasks
+### Fun tasks
 The extra tasks were to bring in a selfie + two tuths and a lie for a fun introduction class on thursday.
 
 **Selfie:** 
