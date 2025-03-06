@@ -1,6 +1,6 @@
 ---
 title: Blog post No.1
-published_at: 2022-04-03
+published_at: 2022-03-04
 snippet: Starting p5 and setting up CCS blog
 disable_html_sanitization: true
 allow_math: true
@@ -117,9 +117,10 @@ Truths and lie:
 Then email Thomas with preferd name and pronouns: 
 Mataso He/Him.
 
+
+
 ![blank](/Images/w1/blankpng.png)
 
--
 <style>
 .container {
     display: flex;
@@ -154,6 +155,7 @@ Mataso He/Him.
     </div>
 </body>
 
+![blank](/Images/w1/blankpng.png)
 
 
  <!-- # This is h1
