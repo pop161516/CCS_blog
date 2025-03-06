@@ -49,13 +49,12 @@ This class seemed very short, we just went though a breif history of creative co
 
 <body>
     <div class="container">
-        <a>
-            <img id= "back_id" src="/Images/Buttons/Back.png" width="30" height="30" alt="Page 1">
-        </a>
+        <a href="/01-first-blog-post" class="button middle">
+            <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/02-downloading-reaper" class="button right">
+        <a href="/" class="button right">
             <img id= "next_id" src="/Images/Buttons/Forward.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
