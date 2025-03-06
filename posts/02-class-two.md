@@ -50,7 +50,7 @@ This class seemed very short, we just went though a breif history of creative co
 <body>
     <div class="container">
         <a href="/01-first-blog-post" class="button middle">
-            <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
+            <img id= "home_id" src="/Images/Buttons/Back.png" width="40" height="40" alt="Page 2">
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
         </a>
