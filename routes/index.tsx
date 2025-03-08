@@ -13,7 +13,7 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <h1 class="text-5xl font-bold"> 
-      <font color="b3323e"> Mataso's Creative Coding Blog 2025
+      <font color="b3323e"> Mataso's Creative Coding Blog
       </font>
         </h1>
       <div class="mt-8">
