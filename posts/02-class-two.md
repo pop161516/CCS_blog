@@ -24,6 +24,20 @@ This class seemed very short, we just went though a breif history of creative co
 2. you might need to learn how to make the cut off square shape. Like a triangle like a trapazoid. You might also need to learn how to line up/connect each shape.
 3. W3schools and p5 resources page.
 
+... I didn't get any other responces but I'll work on it👀
+
+The next part of the homework was to imporve at JavaScript... 
+I looked briefly at the resources provided: I went trhough the 
+- comments
+- print and log
+- frameCount & noLoop
+- template literals
+
+notes:
+- Try to use console.log rather than print becuase it will appempt to print the page to a printer if outside of the set up scope.
+- Useing backticks rathas aposed to quotations means you can concole.log ${...} expretions.
+
+
 
 ![blank](/Images/w1/blankpng.png)
 
