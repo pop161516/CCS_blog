@@ -1,6 +1,6 @@
 ---
 title: Class two, Electric Boogaloo
-published_at: 2022-06-04
+published_at: 2022-03-06
 snippet: Creative coding 101
 disable_html_sanitization: true
 allow_math: true
@@ -40,7 +40,7 @@ I looked briefly at the resources provided: and went through the
 - haveing one "=" triggers an assignment 
 
 This was a quick sketch I whipped up to demonstrate an understanding of each topic:
-<iframe src="https://editor.p5js.org/POP161516/full/BZ5I14iuA"> width = "100%" </iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/BZ5I14iuA" width="100%">  </iframe>
 
 
 
@@ -74,7 +74,7 @@ This was a quick sketch I whipped up to demonstrate an understanding of each top
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/" class="button right">
+        <a href="/03-introductions" class="button right">
             <img id= "next_id" src="/Images/Buttons/Forward.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
