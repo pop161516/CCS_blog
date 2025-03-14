@@ -6,15 +6,15 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<h2 style="color:CornflowerBlue;">Summery</h2>
+<h1 style="color:CornflowerBlue;">Summery</h1>
 
 This morning we had a class packed with learning about p5, to my undertanding p5 is a web vertion of JavaScript... "a free and open-source JavaScript library". I've not used JS before, in fact I've not coded before which is a little frightening but I get the feeling there are poeple in my class that will be able to help me 🫣
 
 Then after the break we got into setting up our blogs and git accounts and deno deplot and whatever. I'd done this before in DMS1 but I didn;t manage to get the local set up working. I'll figure that out later though. 
 
-<h2 style="color:CornflowerBlue;">Class work</h2>
+<h1 style="color:CornflowerBlue;">Class work</h1>
 
-<h4 style="color:CornflowerBlue;">Things I lernt in class:</h4>
+<h3 style="color:CornflowerBlue;">Things I lernt in class:</h3>
 
 - JS dosn't care about ";" or spaces which is conviniant but highlights the importance of getting into the habit of writting clean code.
 - I learnt syntax:
@@ -39,7 +39,7 @@ Then after the break we got into setting up our blogs and git accounts and deno 
     - cd.. +go back (I found that just cd worked for me)
     - open. = open in finder (didnt work for me)
 
-This is sort of cheating becuase I just took it from the template(rather than properly iframing it in) but this is essecialy what we made in class today. 
+This is sort of cheating because I just took it from the template(rather than properly iframing it in) but this is essentially  what we made in class today. 
 
 <canvas id="canvas_example"></canvas>
 
@@ -73,8 +73,10 @@ This is sort of cheating becuase I just took it from the template(rather than pr
     draw_frame ()
 </script>
 
-# Homework
-### Loops
+<h1 style="color:CornflowerBlue;">Homework</h1>
+
+<h3 style="color:CornflowerBlue;">Loops</h3>
+
 Ok, for homework I began looking into for loops. These are ways of repeating code in a clean and minimal way. I started by looking at the example provided
 
 I understood most of the code but being compleetly honest I asked ChatGPT so explain what each line did before I felt confident in what was going on.
@@ -83,7 +85,8 @@ I understood most of the code but being compleetly honest I asked ChatGPT so exp
 
 First test I was mucking around with the square (x, y, s) propoties. I thought that maybe if I ajusted the y then the line may become a grid by duplucateng on each layer.
 
-**Result:**
+<h4 style="color:CornflowerBlue;">Result</h4>
+
 ![image of diagonal](/Images/w1/learningp5diagonal.png)
 
 When this didn't work I got help from p5🙏 I went to the "for" page of the resources and red about how the perametres work...
@@ -92,12 +95,14 @@ Reading the resources helped a lot, I realised I needed to put the loop in a loo
 
 ![inceptiontop](/Images/w1/inceptiontop.gif)
 
-**Result:**
+<h4 style="color:CornflowerBlue;">Result</h4>
+
 ![final image](/Images/w1/learningp5grid.png)
 
 I think this is mission complete but I tried to get a bit of padding between each square which proved much harder than anticipated. maybe a task for next time🫡
 
-### Rafaël Rozendaal
+<h3 style="color:CornflowerBlue;">Rafaël Rozendaal</h3>
+
 Next homework task was to reseach this Rozendaal person and think about how they make their art. the pieces I was most interested in were "passage", "corners", and "pages". 
 
 ![image of passage](/Images/w1/refaelpassage.png)
@@ -106,15 +111,16 @@ I hypothosise the piece "passage" uses some method of creating rectangles in the
 
 (hindsight mataso here, I'm not sure if the piece is scaling from the centre or moving away? and for the trapozoid shape, after looking at the artwork corners I theories a right angle triangle is generated next to the square in the same colour🤷‍♂️)
 
-### Fun tasks
+<h3 style="color:CornflowerBlue;">Fun tasks</h3>
+
 The extra tasks were to bring in a selfie + two tuths and a lie for a fun introduction class on thursday.
 
-**Selfie:** 
-(selfie image)
+<h4 style="color:CornflowerBlue;">Selfie</h4>
+(insert selfie image here?)
 
 Truths and lie:
 - I watched each oscar nominated film, a week before the accadamy awards this year.
-- I have 16 first cousins
+- I have ?? first cousins
 - I'm caught up with one piece 
 
 Then email Thomas with preferd name and pronouns: 
