@@ -6,13 +6,16 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Summery
+<h2 style="color:CornflowerBlue;">Summery</h2>
+
 This morning we had a class packed with learning about p5, to my undertanding p5 is a web vertion of JavaScript... "a free and open-source JavaScript library". I've not used JS before, in fact I've not coded before which is a little frightening but I get the feeling there are poeple in my class that will be able to help me 🫣
 
 Then after the break we got into setting up our blogs and git accounts and deno deplot and whatever. I'd done this before in DMS1 but I didn;t manage to get the local set up working. I'll figure that out later though. 
 
-# Class work
-### Things I lernt in class:
+<h2 style="color:CornflowerBlue;">Class work</h2>
+
+<h4 style="color:CornflowerBlue;">Things I lernt in class:</h4>
+
 - JS dosn't care about ";" or spaces which is conviniant but highlights the importance of getting into the habit of writting clean code.
 - I learnt syntax:
     - ' ' are used for strings (text)
