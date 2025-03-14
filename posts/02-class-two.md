@@ -26,16 +26,22 @@ This class seemed very short, we just went though a breif history of creative co
 
 ... I didn't get any other responces but I'll work on it👀
 
+### JavaScript homework
 The next part of the homework was to imporve at JavaScript... 
-I looked briefly at the resources provided: I went trhough the 
+I looked briefly at the resources provided: and went through the 
 - comments
 - print and log
 - frameCount & noLoop
 - template literals
 
-notes:
+**Notes:**
 - Try to use console.log rather than print becuase it will appempt to print the page to a printer if outside of the set up scope.
 - Useing backticks rathas aposed to quotations means you can concole.log ${...} expretions.
+- haveing one "=" triggers an assignment 
+
+This was a quick sketch I whipped up to demonstrate an understanding of each topic:
+<iframe src="https://editor.p5js.org/POP161516/full/BZ5I14iuA"></iframe>
+
 
 
 
