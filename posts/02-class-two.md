@@ -40,7 +40,7 @@ I looked briefly at the resources provided: and went through the
 - haveing one "=" triggers an assignment 
 
 This was a quick sketch I whipped up to demonstrate an understanding of each topic:
-<iframe src="https://editor.p5js.org/POP161516/full/BZ5I14iuA"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/BZ5I14iuA"> width = "100%" </iframe>
 
 
 
