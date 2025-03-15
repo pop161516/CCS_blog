@@ -14,7 +14,7 @@ Then after the break we got into setting up our blogs and git accounts and deno 
 
 <h1 style="color:CornflowerBlue;">Class work</h1>
 
-<h2 style="color:CornflowerBlue;">Things I learnt in class:</h2>
+<h3 style="color:CornflowerBlue;">Things I learnt in class:</h3>
 
 - JS dosn't care about ";" or spaces which is conviniant but highlights the importance of getting into the habit of writting clean code.
 - I learnt syntax:
@@ -75,7 +75,7 @@ This is sort of cheating because I just took it from the template(rather than pr
 
 <h1 style="color:CornflowerBlue;">Homework</h1>
 
-<h2 style="color:CornflowerBlue;">Loops</h2>
+<h3 style="color:CornflowerBlue;">Loops</h3>
 
 Ok, for homework I began looking into for loops. These are ways of repeating code in a clean and minimal way. I started by looking at the example provided
 
@@ -85,7 +85,7 @@ I understood most of the code but being compleetly honest I asked ChatGPT so exp
 
 First test I was mucking around with the square (x, y, s) propoties. I thought that maybe if I ajusted the y then the line may become a grid by duplucateng on each layer.
 
-<h3 style="color:CornflowerBlue;">Result</h3>
+<h4 style="color:CornflowerBlue;">Result</h4>
 
 ![image of diagonal](/Images/w1/learningp5diagonal.png)
 
@@ -95,13 +95,13 @@ Reading the resources helped a lot, I realised I needed to put the loop in a loo
 
 ![inceptiontop](/Images/w1/inceptiontop.gif)
 
-<h3 style="color:CornflowerBlue;">Result</h3>
+<h4 style="color:CornflowerBlue;">Result</h4>
 
 ![final image](/Images/w1/learningp5grid.png)
 
 I think this is mission complete but I tried to get a bit of padding between each square which proved much harder than anticipated. maybe a task for next time🫡
 
-<h2 style="color:CornflowerBlue;">Rafaël Rozendaal</h2>
+<h3 style="color:CornflowerBlue;">Rafaël Rozendaal</h3>
 
 Next homework task was to reseach this Rozendaal person and think about how they make their art. the pieces I was most interested in were "passage", "corners", and "pages". 
 
@@ -111,11 +111,11 @@ I hypothosise the piece "passage" uses some method of creating rectangles in the
 
 (hindsight mataso here, I'm not sure if the piece is scaling from the centre or moving away? and for the trapozoid shape, after looking at the artwork corners I theories a right angle triangle is generated next to the square in the same colour🤷‍♂️)
 
-<h2 style="color:CornflowerBlue;">Fun tasks</h2>
+<h3 style="color:CornflowerBlue;">Fun tasks</h3>
 
 The extra tasks were to bring in a selfie + two tuths and a lie for a fun introduction class on thursday.
 
-<h3 style="color:CornflowerBlue;">Selfie</h3>
+<h4 style="color:CornflowerBlue;">Selfie</h4>
 (insert selfie image here?)
 
 Truths and lie:

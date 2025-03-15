@@ -6,14 +6,17 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Summery
+<h1 style="color:CornflowerBlue;">Summery</h1>
+
 This class seemed very short, we just went though a breif history of creative coding + the significant figures and the mycelial creative structure. Then we worked on homework and blog stuff.
 
-# Classwork
+<h1 style="color:CornflowerBlue;">Class work</h1>
 😐
 
-# Homework
-### Asking peers questions:
+<h1 style="color:CornflowerBlue;">Homework</h1>
+
+<h3 style="color:CornflowerBlue;">Asking peers questions:</h3>
+
 **Questions to ask:**
 1. what do you think is going on, under the hood?
 2. what concepts would I need to understand in order to replicate this work in p5?
@@ -26,7 +29,8 @@ This class seemed very short, we just went though a breif history of creative co
 
 ... I didn't get any other responces but I'll work on it👀
 
-### JavaScript homework
+<h3 style="color:CornflowerBlue;">JavaScript homework</h3>
+
 The next part of the homework was to imporve at JavaScript... 
 I looked briefly at the resources provided: and went through the 
 - comments
@@ -34,7 +38,8 @@ I looked briefly at the resources provided: and went through the
 - frameCount & noLoop
 - template literals
 
-**Notes:**
+<h4 style="color:CornflowerBlue;">Notes:</h4>
+
 - Try to use console.log rather than print becuase it will appempt to print the page to a printer if outside of the set up scope.
 - Useing backticks rathas aposed to quotations means you can concole.log ${...} expretions.
 - haveing one "=" triggers an assignment 
