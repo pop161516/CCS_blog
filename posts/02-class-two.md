@@ -49,15 +49,15 @@ This was a quick sketch I whipped up to demonstrate an understanding of each top
 
 <h4 style="color:CornflowerBlue;">Code:</h4>
 
-function setup() {
-  //frameRate is reduced to make the numbers count up slower
-  //increasing this will increase the difficulty
-  frameRate(3);
-  createCanvas(500, 200);
-  background(200);
-  noStroke();
-  Num = 0;
-}
+``` function setup() {
+    //frameRate is reduced to make the numbers count up slower
+    //increasing this will increase the difficulty
+    frameRate(3);
+    createCanvas(500, 200);
+    background(200);
+    noStroke();
+    Num = 0;
+    }
 
 function draw() {
   background(200);
@@ -92,7 +92,7 @@ function draw() {
 // function creating mouse click interactivity
 function mousePressed() {
   Num -= 1;
-}
+}`
 
 
 
