@@ -47,6 +47,52 @@ I looked briefly at the resources provided: and went through the
 This was a quick sketch I whipped up to demonstrate an understanding of each topic:
 <iframe src="https://editor.p5js.org/POP161516/full/BZ5I14iuA"   width="500" height="300" aline="middle" >  </iframe>
 
+<h4 style="color:CornflowerBlue;">Code:</h4>
+
+function setup() {
+  //frameRate is reduced to make the numbers count up slower
+  //increasing this will increase the difficulty
+  frameRate(3);
+  createCanvas(500, 200);
+  background(200);
+  noStroke();
+  Num = 0;
+}
+
+function draw() {
+  background(200);
+
+  //makign sure the text is styled right
+  textAlign(CENTER);
+  textSize(25);
+  fill("black");
+
+  //game text
+  text(`Click to reduce the number!!`, 250, 75);
+  text(`${frameCount + Num}`, 250, 125);
+
+  //printing the effective value of clicks
+  console.log(` ${Num} `);
+
+  //easter egg
+  if (Num < -1000) {
+    textSize(10);
+    text(`wow... you've been clicking for a while :/`, 250, 190);
+  }
+
+  //ending the game
+  if (Num + frameCount < 0) {
+    noLoop();
+    background(200);
+    text(`You win!`, 250, 100);
+    console.log(`Good Game!`);
+  }
+}
+
+// function creating mouse click interactivity
+function mousePressed() {
+  Num -= 1;
+}
 
 
 
