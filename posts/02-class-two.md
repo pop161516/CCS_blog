@@ -17,12 +17,14 @@ This class seemed very short, we just went though a breif history of creative co
 
 <h3 style="color:CornflowerBlue;">Asking peers questions:</h3>
 
-**Questions to ask:**
+<h4 style="color:CornflowerBlue;">Questions to ask:</h4>
+
 1. what do you think is going on, under the hood?
 2. what concepts would I need to understand in order to replicate this work in p5?
 3. what resources might help me to learn those concepts?
 
-**Lam:**
+<h4 style="color:CornflowerBlue;">Lam:</h4>
+
 1. There could be various squares scaleing from the centre that overlap. They don't seem to redraw thre background each frame🤔
 2. you might need to learn how to make the cut off square shape. Like a triangle like a trapazoid. You might also need to learn how to line up/connect each shape.
 3. W3schools and p5 resources page.

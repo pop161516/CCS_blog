@@ -6,7 +6,8 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-## Summery
+<h1 style="color:CornflowerBlue;">Summery</h1>
+
 Todays class wasn't so work heavy either... we spent quite a while on the introductions which was fun🤩
 
 My two truths and a lie were:
@@ -18,10 +19,9 @@ but quite a few people got me... damn
 
 Then we broke off into groups and started thinking about aesthetic registers...
 
+<h1 style="color:CornflowerBlue;">Class work</h1>
 
-## Class work
-
-### Talking about cuteness as an aesthetic register:
+<h3 style="color:CornflowerBlue;">### Talking about cuteness as an aesthetic register:</h3>
 
 
 <!DOCTYPE html>
@@ -119,7 +119,6 @@ relationship between AI and cuitness?
 - clipi, simsimi, deepseek??
 - tamagochi
 
-*outro
 </p>
 </div>
 
@@ -139,6 +138,8 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+
+
 
 
 ![blank](/Images/w1/blankpng.png)
