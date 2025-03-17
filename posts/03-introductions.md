@@ -149,10 +149,16 @@ The homework assignment was to discuss how to create cute *visuals, sounds, and 
 
 ![cute creatures](/Images/w2/cutecreatures.png)
 
-- For sounds I think high piched, babyish and animal sounds make for a cute aesthetic. An example I could think of was the grubbs in the hollow knite video game:
+
+- For sounds I think high piched, babyish and animal sounds make for a cute aesthetic. Examples I could think of were the grubbs in the hollow knite video game:
 
 <iframe width="751" height="423" src="https://www.youtube.com/embed/eGPI76PVjnw" title="Hollow Knight Grub Voice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="751" height="423" src="https://www.youtube.com/embed/jXFwWZLNaYc" title="How Theodore Was Made | Alvin and the Chipmunks: The Road Chip VFX Breakdown | Wētā FX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Cuteness in interaction could be achived with movment🤷‍♂️ some cute interations I can think of include: mii's dangeling when you select them and move them on the wii. or in pokemon go when you pet a pokemon you can rub their belly to make them smile
+
+![pokemon go](/Images/w2/pokemongointeraction.jpg)
 
 
 ![blank](/Images/w1/blankpng.png)
