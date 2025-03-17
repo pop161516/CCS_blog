@@ -149,7 +149,10 @@ The homework assignment was to discuss how to create cute *visuals, sounds, and 
 
 ![cute creatures](/Images/w2/cutecreatures.png)
 
-- For sounds I think high piched, babyish and animal sounds make for a cute aesthetic. 
+- For sounds I think high piched, babyish and animal sounds make for a cute aesthetic. An example I could think of was the grubbs in the hollow knite video game:
+
+<iframe width="751" height="423" src="https://www.youtube.com/embed/eGPI76PVjnw" title="Hollow Knight Grub Voice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ![blank](/Images/w1/blankpng.png)
