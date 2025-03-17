@@ -21,7 +21,7 @@ Then we broke off into groups and started thinking about aesthetic registers...
 
 <h1 style="color:CornflowerBlue;">Class work</h1>
 
-<h3 style="color:CornflowerBlue;">### Talking about cuteness as an aesthetic register:</h3>
+<h3 style="color:CornflowerBlue;">Talking about cuteness as an aesthetic register:</h3>
 
 
 <!DOCTYPE html>
