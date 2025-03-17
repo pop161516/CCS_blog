@@ -139,7 +139,17 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
+<h1 style="color:CornflowerBlue;">Homework</h1>
 
+The homework assignment was to discuss how to create cute *visuals, sounds, and interactions* as well as to begine planning my assignment 1.
+
+<h4 style="color:CornflowerBlue;">Visuals:</h4>
+
+- When I think of cute visuals I think... Big eyes, small/young, round and smooth shape/form. some examples:
+
+![cute creatures](/Images/w2/cutecreatures.png)
+
+- For sounds I think high piched, babyish and animal sounds make for a cute aesthetic. 
 
 
 ![blank](/Images/w1/blankpng.png)
