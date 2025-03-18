@@ -156,9 +156,14 @@ The homework assignment was to discuss how to create cute *visuals, sounds, and 
 
 <iframe width="751" height="423" src="https://www.youtube.com/embed/jXFwWZLNaYc" title="How Theodore Was Made | Alvin and the Chipmunks: The Road Chip VFX Breakdown | Wētā FX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Cuteness in interaction could be achived with movment🤷‍♂️ some cute interations I can think of include: mii's dangeling when you select them and move them on the wii. or in pokemon go when you pet a pokemon you can rub their belly to make them smile
+- Cuteness in interaction could be achived with movment🤷‍♂️ Some cute interations I can think of include: mii's dangeling when you select them and move them on the wii or in pokemon go when you pet a pokemon you can rub their belly to make them smile
 
 ![pokemon go](/Images/w2/pokemongointeraction.jpg)
+
+
+<h3 style="color:CornflowerBlue;">A p5 sketch I made to demostraght the cuteness of interactive movment??</h3>
+
+(embed sketch here when finnished...)
 
 
 ![blank](/Images/w1/blankpng.png)
@@ -190,7 +195,7 @@ The homework assignment was to discuss how to create cute *visuals, sounds, and 
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/" class="button right">
+        <a href="/04-learning-p5" class="button right">
             <img id= "next_id" src="/Images/Buttons/Forward.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
