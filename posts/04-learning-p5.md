@@ -26,15 +26,7 @@ My group dicided to brainstorm a sketch for marlin adn dory. Since we were writt
 This was my mock up(without the sound aspect yet🤫):
 
 
-<iframe id= "doryshell" src="https://editor.p5js.org/POP161516/full/udfSFoAz6"></iframe>
-
-<script type="module">
-
-    const iframe  = document.getElementById (`doryshell`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
-
-</script>
+<iframe src="https://editor.p5js.org/POP161516/full/udfSFoAz6"></iframe>
 
 
 
