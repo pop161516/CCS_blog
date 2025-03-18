@@ -21,7 +21,21 @@ Since I already mostly knew how each concept worked I didn't save each sketch :/
 
 Although in the next task we were asked to propose a potencial p5 sketch we could offer a fictional pair of kindred spirits. For this task I did produce a sketch. 
 
-My
+My group dicided to brainstorm a sketch for marlin adn dory. Since we were writting from marlin's perspective we decided the sketch should include somthing dory likes, this being a purple shell. To create cutness in interactivity and audio we descided the shell should be dragable and create water sounds when's velocity increases.
+
+This was my mock up(without the sound aspect yet🤫):
+
+<iframe id= doryshell src="https://editor.p5js.org/POP161516/full/udfSFoAz6"></iframe>
+
+<script type="module">
+
+    const iframe  = document.getElementById (`doryshell`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
+
 
 talked about assignment 1 and kindterd spirits
 (dory sketch)
