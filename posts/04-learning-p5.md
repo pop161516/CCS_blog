@@ -26,7 +26,7 @@ My group dicided to brainstorm a sketch for marlin adn dory. Since we were writt
 This was my mock up(without the sound aspect yet🤫):
 
 
-<iframe src="https://editor.p5js.org/POP161516/full/udfSFoAz6"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/udfSFoAz6" width="400" height="200"></iframe>
 
 
 
