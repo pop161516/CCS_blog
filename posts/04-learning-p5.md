@@ -26,7 +26,7 @@ My group dicided to brainstorm a sketch for marlin adn dory. Since we were writt
 This was my mock up(without the sound aspect yet🤫):
 
 
-<iframe src="https://editor.p5js.org/POP161516/full/udfSFoAz6" width="400" height="300"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/udfSFoAz6" width="400" height="250"></iframe>
 
 <h1 style="color:CornflowerBlue;">Homework</h1>
 
@@ -64,7 +64,7 @@ My idea is a game where you can click certain points on the bike to service and 
 
 To create cute visual aesthetic I'll colour the canvas in typicaly 'cute' or relaxing tones e.g. pink and blue. A common trope in this sort of genre of game.
 
-To create cute interation I iwll have conponents of the bike react to mouse presses. I'd also like to inclue some congratulatory partical effects.
+To create cute interation I will have conponents of the bike react to mouse presses. I'd also like to inclue some congratulatory partical effects.
 
 For sound I will manufacture high pitched and light sound bites of things like bells dinging or wheels spinning.
 
@@ -86,7 +86,8 @@ The first part of this task was to duplicate the origional code then annotate al
 
 Completely honestly I didn't have time to do it this week. I did this task as of the 18th which ment I got to listen to the lecture on classes and function which was **very** helpful, that being said I still missed a **lot**.
 
-Things I learnt from searching the p5 resources:
+<h4 style="color:CornflowerBlue;">Things I learnt from searching the p5 resources:</h4>
+
 - Push()
     - My understanding is that its a way of saving or publishing changhes to an array
 - Reverse()
@@ -100,7 +101,8 @@ Things I learnt from searching the p5 resources:
 - Floor
     - Rounds a float into an intager
 
-Things I still dont get:
+<h4 style="color:CornflowerBlue;">Things I still don't get:</h4>
+
 - Lots of geometry stuff
     - .curves
     - vertex

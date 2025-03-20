@@ -20,6 +20,10 @@ Takeaways from presentations:
 - I learnt objects have data(attribute) and behaviours(methods)
 - I learnt a little bit about sin waves and vectors. I knew vectors were points with "direction and magnitude" but I learnt that sin was a variable that updates, ocilating between -1 and 1.
 
+<p style="text-align:center;"> 
+<img src="/Images/w3/oh-yeah-vector.gif" alt="LambdaTest">
+</p>
+
 ![vector](/Images/w3/oh-yeah-vector.gif)
 
 - An arrow => means your dealing with a "function definintion" also called anonymous function or lamda?
