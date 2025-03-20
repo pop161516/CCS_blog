@@ -13,7 +13,6 @@ This class we started off with a deeper dive into some more advanced topics like
 Then after the break we dove into an **even deeper** dive into sound and mouse interaction
 
 
-
 <h1 style="color:CornflowerBlue;">Class Work</h1>
 
 Takeaways from presentations:
@@ -23,9 +22,20 @@ Takeaways from presentations:
 
 ![vector](/Images/w3/oh-yeah-vector.gif)
 
+- An arrow => means your dealing with a "function definintion" also called anonymous function or lamda?
 
 
 <h1 style="color:CornflowerBlue;">Homework</h1>
+
+1) Choose another Rafael Rozendaal sketch to consider
+I'll pick [stretch](https://www.newrafael.com/stretch/) 
+
+How is it cute...? I dont think I'd say most of their stuff is cute but if i was being lenient..
+
+The viuals are cute becuase it uses bright and pop'ing colours.
+Sonicly there is no sound :/
+and interactivly its cute becuase each click creates new simulation 
+
 
 
 ![blank](/Images/w1/blankpng.png)
