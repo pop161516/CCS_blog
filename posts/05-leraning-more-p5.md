@@ -30,7 +30,11 @@ Takeaways from presentations:
 <h1 style="color:CornflowerBlue;">Homework</h1>
 
 1) Choose another Rafael Rozendaal sketch to consider
-I'll pick [stretch](target="_blank" https://www.newrafael.com/stretch/) 
+
+I'll pick <a href="https://www.newrafael.com/stretch/" target="_blank">stretch</a>
+
+
+I'll pick [stretch](https://www.newrafael.com/stretch/) 
 
 How is it cute...? I dont think I'd say most of their stuff is cute but if i was being lenient..
 
