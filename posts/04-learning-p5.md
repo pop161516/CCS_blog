@@ -25,8 +25,9 @@ My group dicided to brainstorm a sketch for marlin adn dory. Since we were writt
 
 This was my mock up(without the sound aspect yet🤫):
 
-
+<p style="text-align:center;"> 
 <iframe src="https://editor.p5js.org/POP161516/full/udfSFoAz6" width="400" height="250"></iframe>
+</p>
 
 <h1 style="color:CornflowerBlue;">Homework</h1>
 

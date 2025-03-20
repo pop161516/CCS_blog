@@ -24,8 +24,6 @@ Takeaways from presentations:
 <img src="/Images/w3/oh-yeah-vector.gif" alt="LambdaTest">
 </p>
 
-![vector](/Images/w3/oh-yeah-vector.gif)
-
 - An arrow => means your dealing with a "function definintion" also called anonymous function or lamda?
 
 
