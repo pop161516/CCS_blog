@@ -1,7 +1,7 @@
 ---
 title: Get to know me + Aesthetic register's
 published_at: 2022-03-11
-snippet: 2 truths, a lie, and cuitness?
+snippet: -w2:c1- 2 truths, a lie, and cuitness?
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -163,7 +163,7 @@ The homework assignment was to discuss how to create cute *visuals, sounds, and 
 
 <h3 style="color:CornflowerBlue;">A p5 sketch I made to demostraght the cuteness of interactive movment??</h3>
 
-(embed sketch here when finnished...)
+<iframe src="https://editor.p5js.org/POP161516/full/UpvH4cEa3"></iframe>
 
 
 ![blank](/Images/w1/blankpng.png)

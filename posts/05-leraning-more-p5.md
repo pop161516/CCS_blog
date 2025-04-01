@@ -1,7 +1,7 @@
 ---
 title: Learning EVEN MORE p5!!
 published_at: 2022-03-18
-snippet: Functions, classes, objects and more 😵‍💫
+snippet: -w3:c1- Functions, classes, objects and more 😵‍💫
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -33,16 +33,19 @@ Takeaways from presentations:
 
 I'll pick <a href="https://www.newrafael.com/stretch/" target="_blank">stretch</a>
 
-
-I'll pick [stretch](https://www.newrafael.com/stretch/) 
-
 How is it cute...? I dont think I'd say most of their stuff is cute but if i was being lenient..
 
 The viuals are cute becuase it uses bright and pop'ing colours.
+
 Sonicly there is no sound :/
+
 and interactivly its cute becuase each click creates new simulation 
 
+2) How will I create cute🤔
 
+Visualy I want the canvas to be highly styalised. 
+
+Takeing insperation from other fation and make up sim games. I'll
 
 ![blank](/Images/w1/blankpng.png)
 

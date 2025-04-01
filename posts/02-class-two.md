@@ -1,7 +1,7 @@
 ---
 title: Class two, Electric Boogaloo
 published_at: 2022-03-06
-snippet: Creative coding 101
+snippet: -w1:c2- Creative coding 101
 disable_html_sanitization: true
 allow_math: true
 ---
