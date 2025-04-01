@@ -163,7 +163,15 @@ The homework assignment was to discuss how to create cute *visuals, sounds, and 
 
 <h3 style="color:CornflowerBlue;">A p5 sketch I made to demostraght the cuteness of interactive movment??</h3>
 
-<iframe src="https://editor.p5js.org/POP161516/full/UpvH4cEa3"></iframe>
+<iframe id="mii" src="https://editor.p5js.org/POP161516/full/UpvH4cEa3"></iframe>
+
+<script type="module">
+
+    const iframe  = document.getElementById (`mii`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
 
 
 ![blank](/Images/w1/blankpng.png)
