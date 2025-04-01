@@ -33,7 +33,7 @@ Takeaways from presentations:
 
 I'll pick <a href="https://www.newrafael.com/stretch/" target="_blank">stretch</a>
 
-How is it cute...? I dont think I'd say most of their stuff is cute but if i was being lenient..
+How is it cute...? I dont think I'd say most of their stuff is cute but if I was being lenient..
 
 The viuals are cute becuase it uses bright and pop'ing colours.
 
@@ -43,9 +43,20 @@ and interactivly its cute becuase each click creates new simulation
 
 2) How will I create cute🤔
 
-Visualy I want the canvas to be highly styalised. 
+**Visually** I want the canvas to be highly styalised. 
 
-Takeing insperation from other fation and make up sim games. I'll
+Taking inspiration from other fashion and make-up sim games. I think theres somthing cute about customising your own vertion of something. Maybe nostalgic maybe its about concrole and ownership or an expression of individualism and style 🤷
+
+![fashiongmaes](/Images/w3/fashionSimExample.png)
+
+**Sonically** I want to use bell sounds from my bike in a high-pitched and plesant register. I think the satisfying whrrr of a wheel might also make for a cute sound. 
+
+**Interactivlly** Ideally I want the bike to be 3D and interactive. This would mean being able to spin it around to see all angles and clicking on spicific components to make the bells and whistles ring 🛎️ 🔔
+
+3) feedback from classmates:
+:3 I haven't started yet but I'll make sure to get feedback soon 🔜
+
+
 
 ![blank](/Images/w1/blankpng.png)
 
