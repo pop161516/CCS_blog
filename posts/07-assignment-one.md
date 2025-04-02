@@ -31,17 +31,23 @@ Another annoying feature was seeing all the edges of the model. Dispite being lo
 
 To rotate and zoom the model I used the orbitControle() syntax but quickly realised if I added any squares abd text for UI later that would also be efected. If I push()'ed the orbitControle into a scope that only the bike was in it meant the velocity of the bike didn't remain. 
 
-<iframe src="https://editor.p5js.org/POP161516/full/poHV1tn8i"></iframe>
+<p style="text-align:center;"> 
+<iframe src="https://editor.p5js.org/POP161516/full/poHV1tn8i" width="500" height="500"></iframe>
+</p>
 
 ^you can also notice at this point I was using double clicks to change the size of the canvas, with the idea of moveing the bike down and showing the ui that was off screen. Although the rotation point was still the center of the screen meaning the UI would cover the model in some positions.
 
 <h3 style="color:CornflowerBlue;">Solution</h3>
 
-I did a bunch of tests and research into how to malualy rotate the model. In the end mouseDrag function helped create the interactivity and I used a function to store and decrement the velosity of the model to simulate air resistance.
+I did a bunch of tests and research into how to manually rotate the model. In the end mouseDrag function helped create the interactivity and I used a function to store and decrement the velosity of the model to simulate air resistance.
 
 The most useful resources were from codeing train videos <a href="https://www.youtube.com/watch?v=6TPVoB4uQCU" target="_blank">18.2</a> + <a href="https://www.youtube.com/watch?v=BW3D9WwalQE" target="_blank">18.5</a> and the <a href="https://p5js.org/reference/p5/rotateX/" target="_blank">p5 resource library</a> 
 
 <h2 style="color:CornflowerBlue;">UI</h2>
+
+Next I wanted to get an idea of what UI elements I might need🤔 I headed to Figma to mock up a super simple vertion of my idea.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/ZKlKPdINwOHSP3Z5YdM52G/CSS_Assignment1?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
 <h2 style="color:CornflowerBlue;">Sounds and bike interactivity</h2>
 
