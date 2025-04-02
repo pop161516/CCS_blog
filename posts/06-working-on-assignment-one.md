@@ -39,6 +39,14 @@ I was doing a lot of work on my assignment at this point. I'll include a snippet
 
 <iframe id="bikebeta" src="https://editor.p5js.org/POP161516/full/k0Ss7_CYN"></iframe>
 
+<script type="module">
+
+    const iframe  = document.getElementById (`bikebeta`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
 In this version, I managed to figure out the UI movement and the bike model movement ≠ orbitControle.
 
 I'm still missing **A LOT** of the ideas and required components but we'll get there💪🤓
@@ -51,11 +59,11 @@ A combination of ([p5.js resources](https://p5js.org/reference/p5/rotateX/)) and
 
 It was important to make a non-orbitControl approach because the UI elements needed to be static. Here is an earlier mock of my sketch:
 
-<iframe id="bikebeta" src="https://editor.p5js.org/POP161516/full/poHV1tn8i"></iframe>
+<iframe id="moveingui" src="https://editor.p5js.org/POP161516/full/poHV1tn8i"></iframe>
 
 <script type="module">
 
-    const iframe  = document.getElementById (`bikebeta`)
+    const iframe  = document.getElementById (`moveingui`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16 + 42
 
