@@ -54,6 +54,7 @@ Taking inspiration from other fashion and make-up sim games. I think theres somt
 **Interactivlly** Ideally I want the bike to be 3D and interactive. This would mean being able to spin it around to see all angles and clicking on spicific components to make the bells and whistles ring 🛎️ 🔔
 
 3) feedback from classmates:
+
 :3 I haven't started yet but I'll make sure to get feedback soon 🔜
 
 
@@ -87,7 +88,7 @@ Taking inspiration from other fashion and make-up sim games. I think theres somt
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/" class="button right">
+        <a href="/06-working-on-assignment-one" class="button right">
             <img id= "next_id" src="/Images/Buttons/Forward.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
