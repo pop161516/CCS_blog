@@ -49,7 +49,7 @@ In terms of visual cuteness, I think the pink is doing the heavy lifting. With t
 
 What communities and resources did you learn from?
 
-A combination of ([p5.js resources](https://p5js.org/reference/p5/rotateX/)) and Coding train videos ([18.2](https://www.youtube.com/watch?v=6TPVoB4uQCU )), ([18.5](https://www.youtube.com/watch?v=BW3D9WwalQE)) helped me loadmodels and create my own 3d movement without orbit control.
+A combination of <a href="https://p5js.org/reference/p5/rotateX/" target="_blank">p5.js resources</a> and Coding train videos <a href="https://www.youtube.com/watch?v=6TPVoB4uQCU" target="_blank">18.2</a> , <a href="https://www.youtube.com/watch?v=BW3D9WwalQE" target="_blank">18.5</a> helped me loadmodels and create my own 3d movement without orbit control.
 
 It was important to make a non-orbitControl approach because the UI elements needed to be static. Here is an earlier mock of my sketch:
 
