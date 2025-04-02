@@ -43,17 +43,6 @@ I was doing a lot of work on my assignment at this point. I'll include a snippet
 </p>
 
 
-
-<iframe id="bikebeta" src="https://editor.p5js.org/POP161516/full/k0Ss7_CYN"></iframe>
-
-<script type="module">
-
-    const iframe  = document.getElementById (`bikebeta`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
-
-</script>
-
 In this version, I managed to figure out the UI movement and the bike model movement ≠ orbitControle.
 
 I'm still missing **A LOT** of the ideas and required components but we'll get there💪🤓
