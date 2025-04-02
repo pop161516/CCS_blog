@@ -62,7 +62,9 @@ I tryed all sorts of methods of for loops that increment the value to a certain 
 
 ![GPT](/Images/w3/assignment/ChatGPTlog.png)
 
-<iframe src="https://editor.p5js.org/POP161516/full/OotjsMePT"></iframe>
+<p style="text-align:center;"> 
+<iframe src="https://editor.p5js.org/POP161516/full/OotjsMePT" width="500" height="500"></iframe>
+</p>
 
 This produced exactly what I needed but with new syntax???🧐
 
@@ -74,7 +76,9 @@ I think what I wasn't getting was the need to multiply the value by 0.1 or a sma
 
 Right after implimenting it I wrote some code that checked for mouse position on tab to open and close the UI. 
 
-<iframe src="https://editor.p5js.org/POP161516/full/k0Ss7_CYN"></iframe>
+<p style="text-align:center;"> 
+<iframe src="https://editor.p5js.org/POP161516/full/k0Ss7_CYN" width="600" height="450"></iframe>
+</p>
 
 This is how we got to the mockup from last week.
 
