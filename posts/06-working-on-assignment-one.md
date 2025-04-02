@@ -37,6 +37,13 @@ I was doing a lot of work on my assignment at this point. I'll include a snippet
 
 2) Embed a rough draft
 
+
+<p style="text-align:center;"> 
+<iframe ssrc="https://editor.p5js.org/POP161516/full/k0Ss7_CYN" width="600" height="400"></iframe>
+</p>
+
+
+
 <iframe id="bikebeta" src="https://editor.p5js.org/POP161516/full/k0Ss7_CYN"></iframe>
 
 <script type="module">
@@ -59,15 +66,10 @@ A combination of ([p5.js resources](https://p5js.org/reference/p5/rotateX/)) and
 
 It was important to make a non-orbitControl approach because the UI elements needed to be static. Here is an earlier mock of my sketch:
 
-<iframe id="moveingui" src="https://editor.p5js.org/POP161516/full/poHV1tn8i"></iframe>
+<p style="text-align:center;"> 
+<iframe src="https://editor.p5js.org/POP161516/full/poHV1tn8i" width="500" height="500"></iframe>
+</p>
 
-<script type="module">
-
-    const iframe  = document.getElementById (`moveingui`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
-
-</script>
 
 
 ![blank](/Images/w1/blankpng.png)
