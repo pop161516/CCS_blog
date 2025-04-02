@@ -1,7 +1,7 @@
 ---
 title: Working on assignment one
 published_at: 2022-03-21
-snippet: -w3:c2- 
+snippet: -w3:c2- filler 😐
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -38,7 +38,7 @@ I was doing a lot of work on my assignment at this point. I'll include a snippet
 2) Embed a rough draft
 
 <p style="text-align:center;"> 
-<iframe src="https://editor.p5js.org/POP161516/full/k0Ss7_CYN" width="600" height="400"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/k0Ss7_CYN" width="600" height="450"></iframe>
 </p>
 
 In this version, I managed to figure out the UI movement and the bike model movement ≠ orbitControle.
@@ -57,11 +57,11 @@ It was important to make a non-orbitControl approach because the UI elements nee
 <iframe src="https://editor.p5js.org/POP161516/full/poHV1tn8i" width="500" height="500"></iframe>
 </p>
 
-What's ben good and bad?:
+What's been good and bad?:
 
 So far I've enjoyed working out the mousePressed functions and being able to move the UI components. I also love the energy and enthusiasm of the coding train videos!
 
-I found the analog 3d movement challangeing but I got it in the end. I want to find a better way of preloading each model but I've been confused. I wanted to set up a loop for each model to load but it doesn't like when I use `` or when I use "" so it only works when I have no file path and leave all the models in the global library :/ not ideal.
+I found the analog 3d movement challanging but I got it in the end. I want to find a better way of preloading each model but I've been confused. I wanted to set up a loop for each model to load but it doesn't like when I use `` or when I use "" so it only works when I have no file path and leave all the models in the global library :/ not ideal.
 
 
 
