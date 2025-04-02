@@ -49,6 +49,29 @@ Next I wanted to get an idea of what UI elements I might need🤔 I headed to Fi
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/ZKlKPdINwOHSP3Z5YdM52G/CSS_Assignment1?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
+<a href="https://www.figma.com/proto/ZKlKPdINwOHSP3Z5YdM52G/CSS_Assignment1?node-id=0-1&t=XwW1yqLRu4P6cR95-1" target="_blank">use this to see prototype without signing in</a>
+
+<!-- use this to not sign in hopefuly https://www.figma.com/proto/ZKlKPdINwOHSP3Z5YdM52G/CSS_Assignment1?node-id=0-1&t=XwW1yqLRu4P6cR95-1  -->
+
+This was really helpful to translate what I was thinking to how it might look.
+
+To implement this into my p5 sketch I created rectangles that had the variable "ui" in the x potition meaning I could increase the value when the ui was active bringing each element onto canvas and revert it easily.
+
+Making it smooth on the other hand was much trickier. 
+I tryed all sorts of methods of for loops that increment the value to a certain point but I found that it would snap the UI open every time. I turned to old faithful chatGPT. 
+
+![GPT](/Images/w3/assignment/ChatGPTlog.png)
+
+This produced exactly what I needed but with new syntax???🧐
+
+This lead me into a rabbit hole of discovery about abs and the ternery opperatior. I found abs(probably short of absolute) on the p5 resources and worked out it finds the distance from 0 so essencialy returns negitive numbers as positive, in this case allows the target to work when going back and forth and helps more accuratly snap. Unfortunetly p5 resources and the coding train had nothing on the "? :" but I found <a href="https://www.youtube.com/watch?app=desktop&v=ib8MHSMwtYg&t=13s" target="_blank">this video</a> had fun examples and taught me what the turnery opperator was.
+
+I tried not to blatently rip the code but much of the functionality is the same. I used this again later to move the toggle button smoothly.  
+
+I think what I wasn't getting was the need to multiply the value by 0.1 or a small fraction to slow the growth and I had no plans to add the snapping feature but it if really helpful. The ternery isn't **really** neccecery but its fun to use and it shortens the code.
+
+Right after implimenting it I wrote some code that checked for mouse position on tab to open and close the UI. 
+
 <h2 style="color:CornflowerBlue;">Sounds and bike interactivity</h2>
 
 <h2 style="color:CornflowerBlue;">Pallet class</h2>
