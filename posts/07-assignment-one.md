@@ -160,6 +160,7 @@ and my bike!
 
 
 <h2 style="color:CornflowerBlue;">Issues</h3>
+
 - **load optimisation
     - I got a bit of this done with the sounds but I wasn't sure why p5 didn't like the file paths. 
 - *models mtl adn textures
@@ -169,19 +170,21 @@ and my bike!
 - ***hitbox
     - also didn't mange to figure this out, maybe a larger field to look into. constructing geometry nativly in p5 to make 3d hitboxes or projection hitboxes🤷
 - including boolean
-    - when i was
+    - when I was going through the checklist for components that score point I saw that I wasnt including a boolean. I went to add this into the ui logic but I think it may have caused some problems. if you click between states quickly it sometimes bugs out :/ booleans mights not me optimal code but it shows an understanding. 
 - drawing posiiton was centered rathan than the top left in WEBGL
+    - Not really a big deal, but I found it difficult to position and translate elements in 3d since there was no longer a top left.
 
 <h2 style="color:CornflowerBlue;">Successes</h3>
 
-## Issues
-
-
-## Successes
 - Found coding train an amazing resource (personaly)
+    - finding a resource that works for you helps so much esspecialy when their library is extensive, and updates or relivant.
 - Successfuly translated visual ideas from figma to p5
+    - haveing tools that easily treanslate idea to page help me exicute what I want quickly and at a core level.
 - utilised modeling skills 
+    - its always fun to implement 3d esspecialy when you get to make your own assets and sprinkle some creativity.
 - Made a project that includes all the code criteria and (that I personaly think) looks, sounds, and acts cute
+
+Thank you Thomas for reading all my yapping. Sorry for the typos, I try to go back over it but grammerly is awful on vscode.
 
 
 ![blank](/Images/w1/blankpng.png)
