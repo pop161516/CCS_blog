@@ -1,6 +1,6 @@
 ---
 title: Learning EVEN MORE p5!!
-published_at: 2022-03-18
+published_at: 2025-03-18
 snippet: -w3:c1- Functions, classes, objects and more 😵‍💫
 disable_html_sanitization: true
 allow_math: true

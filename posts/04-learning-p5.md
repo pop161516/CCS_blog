@@ -1,6 +1,6 @@
 ---
 title: Learning more p5 and thinking about Assignment 1
-published_at: 2022-03-13
+published_at: 2025-03-13
 snippet: -w2:c2- 💪🧠 + 🤔💭
 disable_html_sanitization: true
 allow_math: true

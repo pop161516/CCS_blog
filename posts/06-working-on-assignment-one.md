@@ -1,6 +1,6 @@
 ---
 title: Working on assignment one
-published_at: 2022-03-21
+published_at: 2025-03-21
 snippet: -w3:c2- filler 😐
 disable_html_sanitization: true
 allow_math: true

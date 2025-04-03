@@ -1,6 +1,6 @@
 ---
 title: Get to know me + Aesthetic register's
-published_at: 2022-03-11
+published_at: 2025-03-11
 snippet: -w2:c1- 2 truths, a lie, and cuitness?
 disable_html_sanitization: true
 allow_math: true
