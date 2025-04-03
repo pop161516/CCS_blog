@@ -91,7 +91,7 @@ The next main issue was working out how make the wheels spin or bell ring when t
 This was the temporary vertion with sounds (but no way to change them) wheels(but only one spinning and a broken hitbox other the other) and UI with a functioning basket button(but no colour pallet yet)
 
 <p style="text-align:center;"> 
-<iframe src="https://editor.p5js.org/POP161516/full/uaWbLa5N-" width="600" height="450"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/uaWbLa5N-" width="610" height="460"></iframe>
 </p>
 
 
@@ -102,7 +102,7 @@ This was by far the most time consuming and laborious part of the project. It be
 I relyed heavily on the coding train tutorials esspetical chapters <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA" target="_blank">6.1 ~ 7.7</a>. Rather than explain the whole journey of understanding classes, below I've included three sketches highlighting significant developments in my process. (1)creating a class and populating a grid with objects (2)mouse interaction changing individual obejcts in the grid (3) finished product with a seperated .js file and a grid of obejcts that set the active colour of another square to the colour clicked.
 
 <p style="text-align:center;"> 
-<iframe src="https://editor.p5js.org/POP161516/full/rwbOhqFsc" width="500" height="500"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/rwbOhqFsc" width="400" height="400"></iframe>
 </p>
 
 <p style="text-align:center;"> 
