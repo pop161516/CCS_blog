@@ -6,13 +6,22 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-summery
+<script src="./scripts/p5.js"></script>
 
-classwork
-group work understanding javascript
+<canvas id="p5_example"></canvas>
 
-homework
-self portrait in glitch
+<script>
+    const cnv = document.getElementById ("p5_example")
+
+    function setup () {
+        createCanvas (300, 300, P2D, cnv)
+    }
+
+    function draw () {
+        background (`turquoise`)
+        console.log (frameCount)
+    }
+</script>
 
 ![blank](/Images/w1/blankpng.png)
 
