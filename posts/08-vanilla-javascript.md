@@ -6,6 +6,13 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
+summery
+
+class work
+using java in visual studio code and canvas api?
+
+homework
+?
 
 ![blank](/Images/w1/blankpng.png)
 
@@ -36,7 +43,7 @@ allow_math: true
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/" class="button right">
+        <a href="/09-intro-to-glitch" class="button right">
             <img id= "next_id" src="/Images/Buttons/Forward.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
