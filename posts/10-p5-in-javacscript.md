@@ -12,13 +12,17 @@ allow_math: true
 
 <script>
     const cnv = document.getElementById ("p5_example")
+    const w = cnv.parentNode.scrollWidth
+    const h = w * 9 / 16
 
     function setup () {
-        createCanvas (300, 300, P2D, cnv)
+        createCanvas (w, h, P2D, cnv)
     }
 
     function draw () {
         background (`turquoise`)
+        fill(`red`)
+        square(30, 30, 50)
         console.log (frameCount)
     }
 </script>
