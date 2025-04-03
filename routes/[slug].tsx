@@ -24,7 +24,7 @@ export default function PostPage(props: PageProps<Post>) {
       </Head>
       <main class="max-w-screen-md px-4 pt-16 mx-auto">
         <h1 class="text-5xl font-bold">
-          <font color="324cb3"> {post.title}</font>
+        <span style={{ color: "#324cb3" }}>{ post.title }</span>
         </h1>
         <time class="text-blue-400">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {
