@@ -80,11 +80,11 @@ Right after implimenting it I wrote some code that checked for mouse position on
 <iframe src="https://editor.p5js.org/POP161516/full/k0Ss7_CYN" width="600" height="450"></iframe>
 </p>
 
-This is how we got to the mockup from last week.
+This is how I got to the mockup from last week.
 
 <h2 style="color:CornflowerBlue;">Sounds and bike interactivity</h2>
 
-At this point I was getting to the pointy end of the assingment 
+At this point I was getting to the pointy end of the assingment and decided to source my sounds from <a href="https://freesound.org/" target="_blank">freesound.org</a>. this ment 
 
 <h2 style="color:CornflowerBlue;">Pallet class</h2>
 
