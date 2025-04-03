@@ -102,36 +102,80 @@ This was by far the most time consuming and laborious part of the project. It be
 I relyed heavily on the coding train tutorials esspetical chapters <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA" target="_blank">6.1 ~ 7.7</a>. Rather than explain the whole journey of understanding classes, below I've included three sketches highlighting significant developments in my process. (1)creating a class and populating a grid with objects (2)mouse interaction changing individual obejcts in the grid (3) finished product with a seperated .js file and a grid of obejcts that set the active colour of another square to the colour clicked.
 
 <p style="text-align:center;"> 
-<iframe src="https://editor.p5js.org/POP161516/full/rwbOhqFsc" width="405" height="415"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/rwbOhqFsc" width="410" height="420"></iframe>
 </p>
 
 <p style="text-align:center;"> 
-<iframe src="https://editor.p5js.org/POP161516/full/Y_mhhgejH" width="500" height="500"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/Y_mhhgejH" width="410" height="420"></iframe>
 </p>
 
 <p style="text-align:center;"> 
-<iframe src="https://editor.p5js.org/POP161516/full/EZwdUJxD8" width="500" height="500"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/EZwdUJxD8" width="410" height="420"></iframe>
 </p>
 
 <h2 style="color:CornflowerBlue;">Feedback</h2>
-screen size
 
+At this point I though the assignment was ready for peer review. I exchanged feedback with KC.
 
+They liked the sketch and recomended I found a way to change the canvas size dynamicaly. 
+ - I though this was a great suggestion but when I went to impliment it there were all sorts of issues with the degree o wich the ui scaled. I will continue working on this after submittion but I think it might requier setting the ui ternery opperater to a variable that is determined by the screen width🤷
+
+They also suggested that if the hitbox was too hard to get working, having buttons in the UI tab would function fine and simualte the game vibe better✔️ easy 😉
 
 <h2 style="color:CornflowerBlue;">Finish</h2>
 
-<h2 style="color:CornflowerBlue;">Issues</h2>
+I cleaned up the comments and addded the attributions and submitted the assignment. attributions include:
+ 
+:Models origionaly sources:
+:Sounds from freesound.org:
+Bell sound 1 = 
+  Bike Bell.WAV by OTBTechno
+  https://freesound.org/s/134688/
+  License: Creative Commons 0
 
-<h2 style="color:CornflowerBlue;">Successes</h2>
+Bell sound 2 = 
+  bike ride with bell.wav by 13gkopeckak 
+  https://freesound.org/s/378908/
+  License: Creative Commons 0
+
+Bell sound 3 =
+  st_bell_bike1.aiff by stereostereo
+  https://freesound.org/s/124502/
+  License: Attribution 4.0
+  
+Bike broken sound =
+  Bike_Wreck.wav by 1sticky8
+  https://freesound.org/s/78483/
+  License: Creative Commons 0
+  
+Bike fixed sound =
+  bicycle wheel.wav by KirstenBrooks3232
+  https://freesound.org/s/594362/
+  License: Attribution NonCommercial 3.0
+
+
+Thanks Thomas Capogreco, p5.js resources, and the coding train🙏
+
+and my bike!
+
+
+<h2 style="color:CornflowerBlue;">Issues</h3>
+- **load optimisation
+    - I got a bit of this done with the sounds but I wasn't sure why p5 didn't like the file paths. 
+- *models mtl adn textures
+    - I started by using screenshots of the colours I wanted to texture the models but I later defulted to p5 colours. I re-exported my 3d models without mtl files attached to stop the warning messages but the basket stoped looking dynamic, the ambient light wasn't working on it and it just looked flat so I kept the mtl vertion in the final and made a note.
+- scale canvas
+    - I didn't mange to fix this which was disapointing but I dont think it would be too hard, just need more time.
+- ***hitbox
+    - also didn't mange to figure this out, maybe a larger field to look into. constructing geometry nativly in p5 to make 3d hitboxes or projection hitboxes🤷
+- including boolean
+    - when i was
+- drawing posiiton was centered rathan than the top left in WEBGL
+
+<h2 style="color:CornflowerBlue;">Successes</h3>
 
 ## Issues
-- **load optimisation
-- textures 
-- *models mtl
-- scale canvas
-- ***hitbox
-- including boolean
-- drawing posiiton was centered rathan than the top left in WEBGL
+
 
 ## Successes
 - Found coding train an amazing resource (personaly)
