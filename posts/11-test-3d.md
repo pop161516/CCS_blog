@@ -1,10 +1,14 @@
 ---
-title: JavaScript(I'm running out of title names😰)
+title: 3D intergration 
 published_at: 2025-04-3
-snippet: -w5:c2- Implementing p5.js through a library📚 
+snippet: -w6:c1- teapot🫖
 disable_html_sanitization: true
 allow_math: true
 ---
+
+missed class but trav the legend caught me up.
+
+not working 
 
 <script type="module">
 
@@ -225,7 +229,7 @@ allow_math: true
 
 <body>
     <div class="container">
-        <a href="/08-vanilla-javascript" class="button middle">
+        <a href="/10-p5-in-javacscript" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Back.png" width="40" height="40" alt="Page 2">
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">

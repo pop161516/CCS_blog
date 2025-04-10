@@ -1,31 +1,12 @@
 ---
-title: JavaScript(I'm running out of title names😰)
-published_at: 2025-04-3
-snippet: -w5:c2- Implementing p5.js through a library📚 
+title: More JavaScript + glitchs
+published_at: 2025-04-1
+snippet: -w5:c1- glitch 👾
 disable_html_sanitization: true
 allow_math: true
 ---
 
-<script src="./scripts/p5.js"></script>
-
-<canvas id="p5_example"></canvas>
-
-<script>
-    const cnv = document.getElementById ("p5_example")
-    const w = cnv.parentNode.scrollWidth
-    const h = w * 9 / 16
-
-    function setup () {
-        createCanvas (w, h, P2D, cnv)
-    }
-
-    function draw () {
-        background (`turquoise`)
-        fill(`red`)
-        square(30, 30, 50)
-        console.log (frameCount)
-    }
-</script>
+not sure what were doing today?
 
 ![blank](/Images/w1/blankpng.png)
 
@@ -48,9 +29,10 @@ allow_math: true
 }
 </style>
 
+
 <body>
     <div class="container">
-        <a href="/09-intro-to-glitch" class="button middle">
+        <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Back.png" width="40" height="40" alt="Page 2">
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">

@@ -42,7 +42,7 @@ self portrait in glitch
         <a href="/" class="button middle">
             <img id= "home_id" src="/Images/Buttons/Home.png" width="40" height="40" alt="Page 2">
         </a>
-        <a href="/" class="button right">
+        <a href="/10-p5-in-javacscript" class="button right">
             <img id= "next_id" src="/Images/Buttons/Forward.png" width="30" height="30" alt="Page 3">
         </a>
     </div>
