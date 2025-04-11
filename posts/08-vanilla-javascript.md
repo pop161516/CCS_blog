@@ -7,9 +7,13 @@ allow_math: true
 ---
 
 summery
+Today we covered a lot of theory. We started using JavaScript in Visual Studio code and making a canvas in the DOM. 
+
+We went over the 'Anatomy of a website' talking about HTML, CSS, and JavaScript. Next we discussed effective complexity again, the push and pull between structure and random🤯
 
 class work
-using java in visual studio code and canvas api?
+
+
 
 homework
 ?
