@@ -10,7 +10,7 @@ missed class but trav the legend caught me up.
 
 not working 
 
-<script type="module">
+<!-- <script type="module">
 
 			import * as THREE from '/scripts/threeCopy.js/build/three.module.js';
 
@@ -204,7 +204,7 @@ not working
 
 			}
 
-		</script>
+		</script> -->
 
 <script>
 import * as THREE from 'three';
