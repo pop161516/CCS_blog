@@ -10,75 +10,103 @@ missed class but trav the legend caught me up.
 
 not working 
 
-<!-- <script type="module">
+<script type="module">
 
-			import * as THREE from '/scripts/threeCopy.js/build/three.module.js';
+	import * as THREE from '/scripts/three.js/three.module.js';
 
-			import { GUI } from '/scripts/threeCopy.js/lil-gui.module.min.js';
+	const container = document.getElementById (`three.js_container`)
+	const width = container.parentNode.scrollwidth
+	const height = width * 9 / 16
 
-			import { OrbitControls } from '/scripts/threeCopy.js/examples/jsm/controls/OrbitControls.js';
-			import { TeapotGeometry } from '/scripts/threeCopy.js/examples/jsm/geometries/TeapotGeometry.js';
+	import { OrbitControls } from '/scripts/three.js/OrbitControls.js';
+	import { TeapotGeometry } from '/scripts/three.js/TeapotGeometry.js';
 
-			let camera, scene, renderer;
-			let cameraControls;
-			let effectController;
-			const teapotSize = 300;
-			let ambientLight, light;
+	const teapotSize = 300;
 
-			let tess = - 1;	// force initialization
-			let bBottom;
-			let bLid;
-			let bBody;
-			let bFitLid;
-			let bNonBlinn;
-			let shading;
+	let teapot;
 
-			let teapot, textureCube;
-			const materials = {};
-
-			init();
-			render();
-
-			function init() {
-
-				const container = document.createElement( 'div' );
-				document.body.appendChild( container );
-
-				const canvasWidth = window.innerWidth;
-				const canvasHeight = window.innerHeight;
-
-				// CAMERA
-				camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 1, 80000 );
-				camera.position.set( - 600, 550, 1300 );
-
-				// LIGHTS
-				ambientLight = new THREE.AmbientLight( 0x7c7c7c, 2.0 );
-
-				light = new THREE.DirectionalLight( 0xFFFFFF, 2.0 );
-				light.position.set( 0.32, 0.39, 0.7 );
-
-				// RENDERER
-				renderer = new THREE.WebGLRenderer( { antialias: true } );
-				renderer.setPixelRatio( window.devicePixelRatio );
-				renderer.setSize( canvasWidth, canvasHeight );
-				container.appendChild( renderer.domElement );
-
-				// EVENTS
-				window.addEventListener( 'resize', onWindowResize );
-
-				// CONTROLS
-				cameraControls = new OrbitControls( camera, renderer.domElement );
-				cameraControls.addEventListener( 'change', render );
-
-				// TEXTURE MAP
-				const textureMap = new THREE.TextureLoader().load( '/scripts/threeCopy.js/examples/textures/uv_grid_opengl.jpg' );
+	const textureMap = new THREE.TextureLoader().load( '/scripts/three.js/textures/uv_grid_opengl.jpg' );
 				textureMap.wrapS = textureMap.wrapT = THREE.RepeatWrapping;
 				textureMap.anisotropy = 16;
 				textureMap.colorSpace = THREE.SRGBColorSpace;
 
-				// REFLECTION MAP
-				const path = '/scripts/threeCopy.js/examples/textures/cube/pisa/';
+	const path = '/scripts/three.js/textures/pisa/';
 				const urls = [ 'px.png', 'nx.png', 'py.png', 'ny.png', 'pz.png', 'nz.png' ];
+
+	const materials = {
+   wireframe: new THREE.MeshBasicMaterial ({ 
+      wireframe: true 
+   })
+	}
+
+const rand_el = a => a[Math.floor (Math.random () * a.length)]
+
+	const rand_tess = () => rand_el ([ 20, 30, 40, 50 ])
+
+	// CAMERA
+const camera = new THREE.PerspectiveCamera (45, width / height, 1, 80000)
+camera.position.set (-600, 550, 1300)
+
+// LIGHTS
+const ambientLight = new THREE.AmbientLight (0x7c7c7c, 2.0)
+
+const light = new THREE.DirectionalLight (0xFFFFFF, 2.0)
+light.position.set (0.32, 0.39, 0.7)
+
+// RENDERER
+const renderer = new THREE.WebGLRenderer ({ antialias: true })
+renderer.setPixelRatio (window.devicePixelRatio)
+renderer.setSize (width, height)
+container.appendChild (renderer.domElement)
+
+// CONTROLS
+const cameraControls = new OrbitControls (camera, renderer.domElement)
+
+// scene itself
+const scene = new THREE.Scene ()
+scene.background = new THREE.Color (0xAAAAAA)
+scene.add (ambientLight)
+scene.add (light)
+
+let material = materials[ 'wireframe' ] 
+
+let geometry = new TeapotGeometry (
+   300, // teapotSize
+   rand_tess (),
+   true,
+   true,
+   true,
+   true,
+)
+
+const draw_teapot = ms => { 
+	        geometry = new TeapotGeometry (
+            teapotSize,
+            'wireframe' (), 
+            Math.random () < 0.8,
+            Math.random () < 0.8,
+            true,
+            true,
+            true 
+         )
+
+         material = materials[ 'wireframe' ]
+
+scene.background = type === `reflective` 
+            ? textureCube
+            : null
+
+
+teapot = new THREE.Mesh (geometry, material)
+   scene.add (teapot)
+
+   renderer.render (scene, camera)
+
+   requestAnimationFrame (draw_teapot)
+}
+
+requestAnimationFrame (draw_teapot)
+
 
 				textureCube = new THREE.CubeTextureLoader().setPath( path ).load( urls );
 
@@ -204,42 +232,7 @@ not working
 
 			}
 
-		</script> -->
-
-<script>
-import * as THREE from 'three';
-
-const width = window.innerWidth, height = window.innerHeight;
-
-// init
-
-const camera = new THREE.PerspectiveCamera( 70, width / height, 0.01, 10 );
-camera.position.z = 1;
-
-const scene = new THREE.Scene();
-
-const geometry = new THREE.BoxGeometry( 0.2, 0.2, 0.2 );
-const material = new THREE.MeshNormalMaterial();
-
-const mesh = new THREE.Mesh( geometry, material );
-scene.add( mesh );
-
-const renderer = new THREE.WebGLRenderer( { antialias: true } );
-renderer.setSize( width, height );
-renderer.setAnimationLoop( animate );
-document.body.appendChild( renderer.domElement );
-
-// animation
-
-function animate( time ) {
-
-	mesh.rotation.x = time / 2000;
-	mesh.rotation.y = time / 1000;
-
-	renderer.render( scene, camera );
-
-}
-</script>
+		</script>
 
 ![blank](/Images/w1/blankpng.png)
 
