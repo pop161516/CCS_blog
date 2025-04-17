@@ -1,5 +1,5 @@
 ---
-title: 3D intergration 
+title: 3D intergration
 published_at: 2025-04-3
 snippet: -w6:c1- teapot🫖
 disable_html_sanitization: true
@@ -8,11 +8,11 @@ allow_math: true
 
 missed class but trav the legend caught me up.
 
-not working 
+not working
 
 <script type="module">
 
-import * as THREE from "/scripts/three.module.js"
+import * as THREE from "/scripts/three.js/three.module.js"
 
 const container = document.getElementById (`three.js_container`)
 const width = container.parentNode.scrollWidth
@@ -196,7 +196,7 @@ const draw_teapot = ms => {
 
 requestAnimationFrame (draw_teapot)
 
-			}
+
 
 		</script>
 
