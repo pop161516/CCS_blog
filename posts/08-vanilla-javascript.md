@@ -18,7 +18,7 @@ We went over the 'Anatomy of a website' talking about HTML, CSS, and JavaScript.
 <h1 style="color:CornflowerBlue;">Homework</h1>
 explore high compressibility, low compressibility, and high effective complexity in p5!!
 
-<iframe src="https://editor.p5js.org/POP161516/full/Udb66paR2" width="400" height="420" aline="middle"></iframe>
+<iframe src="https://editor.p5js.org/POP161516/full/Udb66paR2" width="400" height="430" aline="middle"></iframe>
 
 <iframe src="https://editor.p5js.org/POP161516/full/hS-vKk155"></iframe>
 
