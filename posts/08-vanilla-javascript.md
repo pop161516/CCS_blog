@@ -26,6 +26,16 @@ explore high compressibility, low compressibility, and high effective complexity
 
 <iframe src="https://editor.p5js.org/POP161516/full/GWgZxf5aE" width="400" height="440" aline="middle"></iframe>
 
+Also in the homework there is a quote by Philip Galanter 
+
+> " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. "
+
+This may be relivent to generative art because it brings uniquness to art that an artist may not intend?
+
+We talked about "intentional fallacy" in class (I'm not sure what week that was(could be in the future🤫)) this idea that the audiance create the meaning means that generative art is as meaningful or useless as the audiance deems it. *Duchamp giggling in his grave*
+
+In regards to my sketches if they were interperated by an audience with no sense of memory they might not be able to comprehend the low complexity sketch of a beeing with a far supiriour language structure might find a way of comunicating and replicating the complax sketch with ease meaning the complexity is subjective?
+
 ![blank](/Images/w1/blankpng.png)
 
 <style>
