@@ -1,7 +1,7 @@
 ---
 title: More JavaScript + glitchs
 published_at: 2025-04-1
-snippet: -w5:c1- glitch 👾
+snippet: -w4:c2- glitch 👾
 disable_html_sanitization: true
 allow_math: true
 ---

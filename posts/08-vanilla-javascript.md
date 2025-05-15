@@ -36,7 +36,7 @@ We talked about "intentional fallacy" in class (I'm not sure what week that was(
 
 In regards to my sketches if they were interperated by an audience with no sense of memory they might not be able to comprehend the low complexity sketch of a beeing with a far supiriour language structure might find a way of comunicating and replicating the complax sketch with ease meaning the complexity is subjective?
 
-The artist ([**Ted Davis** ](https://teddavis.org/#projects)) uses effective complexity in their websites home page with iteration and glich like effects to create an unpredictable structured artwork. using geometric shape in an unpredictable way.
+The artist [**Ted Davis** ](https://teddavis.org/#projects){:target="_blank"} uses effective complexity in their websites home page with iteration and glich like effects to create an unpredictable structured artwork. using geometric shape in an unpredictable way.
 
 ![blank](/Images/w1/blankpng.png)
 

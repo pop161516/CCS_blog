@@ -1,7 +1,7 @@
 ---
 title: JavaScript(I'm running out of title names😰)
 published_at: 2025-04-3
-snippet: -w5:c2- Implementing p5.js through a library📚 
+snippet: -w5:c1- Implementing p5.js through a library📚 
 disable_html_sanitization: true
 allow_math: true
 ---
