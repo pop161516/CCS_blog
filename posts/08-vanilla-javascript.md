@@ -1,22 +1,28 @@
 ---
 title: Vanilla JavaScript
 published_at: 2025-03-25
-snippet: -w4:c1~2- starting a new unit
+snippet: -w4:c1- starting a new unit
 disable_html_sanitization: true
 allow_math: true
 ---
 
-summery
+<h1 style="color:CornflowerBlue;">Summery</h1>
 Today we covered a lot of theory. We started using JavaScript in Visual Studio code and making a canvas in the DOM. 
 
 We went over the 'Anatomy of a website' talking about HTML, CSS, and JavaScript. Next we discussed effective complexity again, the push and pull between structure and random🤯
 
-class work
+<h1 style="color:CornflowerBlue;">Class Work</h1>
+??
 
 
+<h1 style="color:CornflowerBlue;">Homework</h1>
+explore high compressibility, low compressibility, and high effective complexity in p5!!
 
-homework
-?
+<iframe src="https://editor.p5js.org/POP161516/full/Udb66paR2"></iframe>
+
+<iframe src="https://editor.p5js.org/POP161516/full/hS-vKk155"></iframe>
+
+<iframe src="https://editor.p5js.org/POP161516/full/GWgZxf5aE"></iframe>
 
 ![blank](/Images/w1/blankpng.png)
 
