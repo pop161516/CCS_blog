@@ -39,7 +39,7 @@ self portrait in glitch:
       img_data = cnv.toDataURL ("image/jpeg")
       add_glitch ()
    }
-   img.src = `/static/me.jpg`
+   img.src = `/Images/me.jpg`
 
    const rand_int = max => Math.floor (Math.random () * max)
 
